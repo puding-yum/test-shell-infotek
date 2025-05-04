@@ -1,0 +1,2 @@
+input = Nama saya John Doe 
+result = amaN ayas nhoJ eoD

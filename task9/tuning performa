@@ -1,0 +1,2 @@
+untuk mengukur performa fitur bisa dilakukan dengan performance test terhadap fitur tertentu, tools jmeter bisa digunakan di sini.
+jika suatu fitur dirasa lamban bisa dicek dari kualitas codenya. misalkan penerapan try catch apakah dimanfaatkan atau tidak, perulangan yang dipakai apakah sudah efektif, query query yang digunakan apakah sudah efektif, pemakaian indexing juga sangat berpengaruh untuk data banyak.

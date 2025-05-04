@@ -1,0 +1,2 @@
+### Keycloak
+Keycloak merupakan metode autentikasi yang mempermudah user melakukan login contohnya dengan akun google. Jadi di aplikasi tidak perlu menyimpan atau register data user terlebih dahulu. Ini cocok digunakan ketika aplikasi tidak menginginkan untuk menyimpan data autentikasi pengguna atau untuk mempermudah login pengguna yang belum ingin register ke aplikasi.
